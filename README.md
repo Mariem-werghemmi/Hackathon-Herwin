@@ -138,3 +138,17 @@ npx tsc --noEmit
 ## Privacy and production limitations
 
 HERmind is a prototype. Server-stored conversations are optional and require user consent, but stored message text is currently plaintext in the configured database. The local development API is not production-hardened. Before production, add TLS, access controls, encrypted storage, migrations, rate limiting, monitoring, backups, retention controls, and a reviewed safety process. See [the backend documentation](backend/README.md) for more details.
+
+## Équipe
+
+Projet réalisé en équipe de 3 lors du **HERwin Hackathon** (IEEE WIE, École Polytechnique de Sousse, 2026).
+
+| Membre | Rôle |
+|---|---|
+| Mariem Werghemmi ([@Mariem-werghemmi](https://github.com/Mariem-werghemmi)) 
+| Melek Nagat ([@Meleknagat](https://github.com/Meleknagat)) 
+
+
+Dépôt original : [Meleknagat/Hackathon-HerWin](https://github.com/Meleknagat/Hackathon-HerWin)
+
+HERmind is a mobile-first well-being...
